@@ -208,7 +208,7 @@ li a:hover {
     color: black;
     display: block;
     text-align: center;
-    font-size: 4rem;
+    font-size: 2.8rem;
     padding: 3rem 0 1.5rem 0;
     margin-bottom: 1rem;
 }
@@ -265,7 +265,7 @@ li a:hover {
 .proyecto__titulo {
     color: white;
     font-weight: 100;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-decoration: none;
 }
 
