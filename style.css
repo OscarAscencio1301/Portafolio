@@ -193,6 +193,7 @@ li a:hover {
         margin: 0 auto;
         justify-content: center;
         align-items: center;
+        max-width: 100%;
     }
     .conocimiento {
         flex: 0 1 calc(20% - 1rem);
