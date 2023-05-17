@@ -63,6 +63,7 @@ body {
 .menuarriba {
     transform: translateX(200%);
     transition: transform 1s;
+    display: none;
 }
 
 
@@ -70,6 +71,8 @@ body {
 .menuabajo {
     transform: translateX(0);
     transition: transform 1s;
+    display: block;
+
 }
 
 i {

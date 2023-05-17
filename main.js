@@ -15,6 +15,8 @@ function mostrarMenu(e) {
     e.preventDefault();
     menu.classList.remove("menuarriba");
     menu.classList.add("menuabajo");
+    menu.style.display="block"
+
 
 }
 
@@ -22,6 +24,7 @@ function quitarMenu(e) {
     e.preventDefault();
     menu.classList.remove("menuabajo");
     menu.classList.add("menuarriba");
+    menu.style.display="none"
 
 }
 
