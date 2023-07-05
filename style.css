@@ -40,12 +40,14 @@ body {
 }
 
 .menu {
-    width: 90%;
+    width: 100%;
     height: 100vh;
     background-color: var(--colorsecundario);
-    position: absolute;
+    position: fixed;
+    z-index: 100;
     top: 0;
     right: 0;
+    overflow: hidden;
 }
 
 .menu ul {
